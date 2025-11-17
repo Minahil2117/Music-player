@@ -36,7 +36,7 @@ A beautiful, fully-functional music player built with HTML, CSS, and vanilla Jav
 
 ## 🚀 Demo
 
-[Live Demo](#) *(Add your GitHub Pages link here)*
+[Live Demo](#) https://minahil2117.github.io/Music-player/
 
 ## 🛠️ Technologies Used
 
@@ -161,7 +161,6 @@ This project is open source and available under the [MIT License](LICENSE).
 Have questions or suggestions? Feel free to reach out!
 
 - Email: fminahil862@gmail.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ## ⭐ Show Your Support
 
