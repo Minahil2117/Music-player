@@ -36,7 +36,7 @@ A beautiful, fully-functional music player built with HTML, CSS, and vanilla Jav
 
 ## 🚀 Demo
 
-[Live Demo](#) https://minahil2117.github.io/Music-player/
+[Live Demo](#)  https://minahil2117.github.io/Music-player/
 
 ## 🛠️ Technologies Used
 
